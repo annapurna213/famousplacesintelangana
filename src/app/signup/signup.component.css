@@ -1,0 +1,54 @@
+body
+{
+    background-color: aquamarine;
+}
+.wrapper
+{
+   
+    width: 400px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10px;
+    background-color: rgb(85, 142, 247);
+    padding: 25px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 3px rgb(245, 72, 173);
+}
+.wrapper h2
+{
+    text-align: center;
+    color: rgb(192, 6, 84);
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.wrapper .input_field
+{
+    margin-bottom: 10px;
+}
+.wrapper .input_field input[type="text"],input[type="email"],input[type="number"],input[type="password"],.wrapper textarea,.wrapper select
+{
+   width: 100%;
+   border: 1px solid gray;
+   padding: 10px;
+   border-radius: 3px;
+}
+.wrapper textarea
+{
+    resize: none;
+    height: 80px;
+}
+.wrapper .btn input[type="submit"],input[type="reset"]
+{
+    border: 0px;
+    margin-top: 15px;
+    padding: 10px;
+    width: 100%;
+    background-color: lightcoral;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid gray;
+}

@@ -1,0 +1,51 @@
+body
+{
+  background-color: rgb(161, 245, 206);
+}
+
+.wrapper
+{
+  
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10px;
+  background-color: rgb(201, 243, 85);
+  padding: 25px;
+  border-radius: 6px;
+  box-shadow: 6px 6px 3px rgb(52, 48, 245);
+}
+.wrapper h2
+{
+    text-align: center;
+    color: brown;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.wrapper .input_field
+{
+    margin-bottom: 10px;
+}
+.wrapper .input_field input[type="email"],input[type="password"]
+{
+   width: 100%;
+   border: 1px solid gray;
+   padding: 10px;
+   border-radius: 3px;
+}
+
+.wrapper .btn input[type="submit"],input[type="reset"]
+{
+    border: 0px;
+    margin-top: 15px;
+    padding: 10px;
+    width: 100%;
+    background-color: lightcoral;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid gray;
+}

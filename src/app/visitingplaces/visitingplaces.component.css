@@ -1,0 +1,23 @@
+.card
+{
+    border:3px groove green;
+    border-radius: 6px;
+    box-shadow: 5px 5px 3px blue;  
+}
+h2
+{
+    text-align: center;
+    color: rgb(238, 4, 238);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 3px 1px yellowgreen;
+    letter-spacing: 2px;
+}
+.a
+{
+display: flex;
+
+}
+.b{
+    margin: 20px;
+}

@@ -1,0 +1,27 @@
+.card
+{
+    border:3px groove green;
+    border-radius: 6px;
+    box-shadow: 5px 5px 3px blue;  
+}
+h2
+{
+    text-align: center;
+    color: rgb(245, 23, 60);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 3px 1px yellowgreen;
+    letter-spacing: 2px;
+}
+p::first-letter {
+    font-size: 150%;
+    color: #f51b0b;
+    text-transform: uppercase;
+  }
+  h4
+{
+  
+  
+   
+ letter-spacing: 1px;
+}

@@ -1,0 +1,30 @@
+.card
+{
+    border:3px groove green;
+    border-radius: 6px;
+    box-shadow: 5px 5px 3px rgb(73, 23, 252);  
+
+}
+h2
+{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    text-shadow: 3px 1px rgb(113, 204, 240);
+}
+h3
+{
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(206, 18, 253);
+    text-shadow: 3px 1px rgb(76, 253, 106);
+
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(117, 6, 108);
+    text-shadow: 3px 1px rgb(207, 241, 80);
+
+}

@@ -1,0 +1,24 @@
+
+.card
+{
+    border:3px groove green;
+    border-radius: 5px;
+    box-shadow: 4px 4px 2px blue;  
+}
+h4
+{
+  
+    color: rgb(230, 15, 140);
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+h2
+{ 
+    text-align: center;
+    color: rgb(245, 23, 60);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 3px 1px yellowgreen;
+    letter-spacing: 2px;
+}
+
